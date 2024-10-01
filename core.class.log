@@ -1,0 +1,102 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215617940740@s.whatsapp.net',
+    fromMe: false,
+    id: '3FD8C5B3FF6E0615ED17',
+    participant: undefined
+  },
+  messageTimestamp: 1727747206,
+  pushName: 'Albert',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215617940740'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_75f9fb2a-38e7-4d9f-9b52-1b11d84f571d',
+  keyword: 'key_b74196a3-6ef9-4820-9ea6-36d7bbd2ad3d',
+  answer: '📊 Hola bienvenido a *Ciencia de datos MX*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '31f7eb54cc130348ba4fdcd6418b37db'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b4c0a829-f712-4a60-8236-364e04dc1ae2',
+  keyword: 'ans_75f9fb2a-38e7-4d9f-9b52-1b11d84f571d',
+  answer: 'Este es un robot diseñado por Ciencia de datos México\n' +
+    'Por favor escribe: \n' +
+    '\n' +
+    '👉 *Duda:* Si deseas hablar con alguno de nuestros operadores sobre Ciencia de datos MX.\n' +
+    '👉 *Curso:*  Si te gustaría recibir información acerca de los cursos vigentes.\n' +
+    '👉 *Asesoria:* Si deseas cotizar una asesoria en algún lenguaje de programación.\n' +
+    ' ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3b5659891b36f45d13871ae551d4c37b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cef695bc-140b-462f-be5d-acb2c0735c59',
+  keyword: 'ans_b4c0a829-f712-4a60-8236-364e04dc1ae2',
+  answer: 'Te recordamos que puedes también seguirnos a traves de nuestra pagina web en: *https://luisalbertort.github.io/CienciadedatosMexico/*📈\n' +
+    ' \n' +
+    'Y Facebook en: *https://www.facebook.com/cienciadedatosmxsadecv*🗂️\n' +
+    ' \n' +
+    'Contacto: *(+52) 56-589387-06*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8d7ce7df9a9ed9f3b8f6214cd16f785a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_aaab5465-fdd1-4f04-aabc-a8da545adad9',
+  keyword: 'ans_cef695bc-140b-462f-be5d-acb2c0735c59',
+  answer: '.',
+  options: {
+    media: 'https://github.com/LuisAlbertoRT/CienciadedatosMexico/blob/main/img/img5.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e367ab0e8dca792a5d9543cf977d5e9f'
+}
